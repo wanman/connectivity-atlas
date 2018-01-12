@@ -1,10 +1,10 @@
 # Connectivity Atlas
 
-🚨 This repo does not currently have a maintainer. Contact [@developmentseed](https://github.com/developmentseed/) if you have any questions.
+🚨 This repo does not currently have a maintainer. Contact [@wanman](https://github.com/wanman/) if you have any questions.
 
 ### Contributing:
 
-Please see [contributing.md](https://github.com/developmentseed/connectivity-atlas/blob/develop/contributing.md) for guidelines on contributing. All Pull Requests should be made against the `develop` branch.
+Please see [contributing.md](https://github.com/wanman/connectivity-atlas/blob/develop/contributing.md) for guidelines on contributing. All Pull Requests should be made against the `develop` branch.
 
 ### Install:
 

@@ -1,6 +1,6 @@
 # Connectivity Atlas
 
-🚨 This repo does not currently have a maintainer. Contact [@wanman](https://github.com/wanman/) if you have any questions.
+Contact [@wanman](https://github.com/wanman/) if you have any questions or need help.
 
 ### Contributing:
 
